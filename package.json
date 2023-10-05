@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
-    "version": "2.3.1",
-    "description": "Conflictura modded server launcher",
+    "name": "KristaliaMC-Launcher",
+    "preductname": "KristaliaMC Launcher",
+    "version": "1.1.1",
+    "description": "KristaliaMC",
     "main": "src/app.js",
-    "author": "Luuxis/Riptiaz",
-    "settings": "https://launcher.conflictura.site",
+    "author": "KristaliaMC",
+    "settings": "https://launcher.kristaliamc.fr",
     "engines": {
         "node": "16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/NeXoS-20/KristaliaMC-Launcher.git"
     }
 }

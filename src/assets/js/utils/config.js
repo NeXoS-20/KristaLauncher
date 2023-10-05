@@ -24,7 +24,7 @@ class Config {
     }
     async GetNews() {
         this.config = await this.GetConfig().then(res => res);
-        let news = `${this.config.azauth}/api/rss`
+        let news = `https://kristaliamc.fr/api/rss`
         let rss = await fetch(news).then(res => res.text());
         let rssparse = JSON.parse(convert.xml2json(rss, { compact: true }));
         let data = [];
