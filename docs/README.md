@@ -1,4 +1,4 @@
-CentralCorp Launcher
+ Launcher
 
 ## Description
 Un launcher entièrement synchronisé avec votre site Azuriom et entièrement personnalisable depuis un panel.
